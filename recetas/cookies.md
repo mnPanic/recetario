@@ -10,7 +10,7 @@ Ingredientes
 - 1 1/4 (4gr) tsp sal
 - 3/4 (4gr) bicarbonato de sodio (baking soda)
 - 170gr manteca sin sal (dividida en ~115gr y ~55gr)
-- 200gr azucar morena
+- 200gr azucar negra
 - 50gr azucar blanca
 - 1 huevo
 - 2 yemas de huevo
