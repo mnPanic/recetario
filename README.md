@@ -11,6 +11,7 @@ Indice
 - [Salsa de tomate](recetas/salsa-tomate.md)
 - [Masa para pizza](recetas/masa-pizza.md)
 - [Galletitas de chocolate](recetas/cookies.md)
+- [Budín de banana](recetas/banana-bread.md)
 
 Nomenclaturas
 -------------
