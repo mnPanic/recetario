@@ -11,3 +11,14 @@ Indice
 - [Salsa de tomate](recetas/salsa-tomate.md)
 - [Masa para pizza](recetas/masa-pizza.md)
 - [Galletitas de chocolate](recetas/cookies.md)
+
+Nomenclaturas
+-------------
+
+Termino en ingles   | Equivalente en español
+------------------- | ----------------------
+Baking soda         | Bicarbonato de sodio
+Baking powder       | Polvo de hornear
+Bread flour         | Harina 000
+All-purpose flour   | Harina 0000
+Self-rising flour   | Harina leudante
