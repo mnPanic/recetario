@@ -30,11 +30,14 @@ Preparación
 -----------
 
 1. Picar el ajo y la cebolla
-2. En una olla o sarten poner aceite de oliva y antes de que caliente tirar el ajo.
-3. Sofreir un ratito y después agregar el laurel y la cebolla, cocinar hasta que esté traslúcida (~8 min)
-4. Hacer un agujero en el medio y agregar el concentrado de tomate, cocinandolo para que no tenga sabor crudo.
+2. En una olla o sarten poner aceite de oliva y antes de que caliente tirar
+   el ajo.
+3. Sofreir un ratito y después agregar el laurel y la cebolla, cocinar hasta
+   que esté traslúcida (~8 min)
+4. Hacer un agujero en el medio y agregar el concentrado de tomate, cocinandolo
+   para que no tenga sabor crudo.
 5. Mezclar para que se incorpore con la cebolla.
-6. Agregar el resto de las especias y revolver para que se integren por unos minutos
+6. Agregar el resto de las especias y revolver para que se integren.
 7. Agregar el tomate.
 8. Agregar la manteca y dejar que se derrita, revolviendo.
 9. Después de un rato probar la salsa y ajustar el seasoning de ser necesario.

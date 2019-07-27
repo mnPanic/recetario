@@ -24,8 +24,10 @@ Preparación
 - Incorporar el bicarbonato de sodio, sal, azucar, huevo y vainilla y mezclar
 - Agregar harina y mezclar
 - Agregar nueces
-- Poner la mezcla en la budinera y hornear por 50 minutos a 1 hora, o hasta que un escarbadientes salga limpio
-- Sacar del horno y dejar enfriar unos minutos, después sacar de la budinera y dejar enfriar completamente antes de comer
+- Poner la mezcla en la budinera y hornear por 50 minutos a 1 hora, o hasta
+  que un escarbadientes salga limpio
+- Sacar del horno y dejar enfriar unos minutos, después sacar de la budinera
+  y dejar enfriar completamente antes de comer
 
 Fuentes
 -------
