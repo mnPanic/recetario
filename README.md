@@ -16,6 +16,10 @@ Indice
 Nomenclaturas
 -------------
 
+- tsp: Teaspoon, cucharadita
+- tbsp: Tablespoon, cucharón
+- cup: Taza
+
 Termino en ingles   | Equivalente en español
 ------------------- | ----------------------
 Baking soda         | Bicarbonato de sodio
