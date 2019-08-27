@@ -12,9 +12,14 @@ Indice
 - [Masa para pizza](recetas/masa-pizza.md)
 - [Galletitas de chocolate](recetas/cookies.md)
 - [Budín de banana](recetas/banana-bread.md)
+- [Pollo tres aromas](recetas/sanbeiji.md)
 
 Nomenclaturas
 -------------
+
+- tsp: Teaspoon, cucharadita
+- tbsp: Tablespoon, cucharón
+- cup: Taza
 
 Termino en ingles   | Equivalente en español
 ------------------- | ----------------------
