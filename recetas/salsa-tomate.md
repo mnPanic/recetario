@@ -7,43 +7,46 @@ Ingredientes
 ------------
 
 - 400gr tomate triturado (1 lata)
+- Agua (igual que tomate o un poco menos, depende de cuanto se deje cocinar)
 - Concentrado de tomate _(le da un sabor mucho mas intenso de tomate a la salsa)_
 - 1 cebolla mediana
-- 2 dientes de ajo (o más)
-- ~20gr Mantecas
+- 1 dientes de ajo (o más)
+- (opcional) ~20gr manteca
 - Aceite de oliva
 - Sal
 - Pimienta
 - Azucar
 - 2 hojas de laurel
+- Tomillo
 - Orégano
 
-Otros?
-
-- Pimentón
-- Ají molido
-
-Las proporciones de las especias y seasoning son _a gusto_.\
-Lo que hago yo es ir probando y agregandole según le falte.
+Las proporciones de las especias y sal y pimiento son a ojo y a gusto.\
+Ir probando y agregar según cuanto le falte.
 
 Preparación
 -----------
 
 1. Picar el ajo y la cebolla
-2. En una olla o sarten poner aceite de oliva y antes de que caliente tirar
-   el ajo.
-3. Sofreir un ratito y después agregar el laurel y la cebolla, cocinar hasta
-   que esté traslúcida (~8 min)
+2. En una olla o sarten fría poner aceite de oliva y el ajo
+   > Esto es para que no se queme el ajo, porque con aceite muy caliente se quema.
+3. Dejar que dore un ratito y después agregar la cebolla junto con la sal (para
+   que se sude) y cocinar hasta que esté traslúcida (~8 min).
+   > Ahora el ajo no se va a quemar.
 4. Hacer un agujero en el medio y agregar el concentrado de tomate, cocinandolo
    para que no tenga sabor crudo.
 5. Mezclar para que se incorpore con la cebolla.
-6. Agregar el resto de las especias y revolver para que se integren.
-7. Agregar el tomate.
-8. Agregar la manteca y dejar que se derrita, revolviendo.
-9. Después de un rato probar la salsa y ajustar el seasoning de ser necesario.
-10. Cocinar en fuego bajo por aprox 20-30 minutos.
+6. Agregar el tomate y la misma cantidad o un poco menos de agua.
+   > Si se está haciendo pasta, se puede agregar agua de la cocción
+7. Agregar todas las especias (orégano, laurel, tomillo, pimienta) y revolver
+   para que se integren.
+8. Agregar azucar para ocultar la acidez del tomate.
+9. (Opcional) Agregar la manteca y dejar que se derrita, revolviendo.
+10. Cocinar en fuego bajo hasta que tenga la textura y sabor deseados.
+    Agregar sal y pimienta de ser necesario. (~20-30 min).
 
 Extras
 ------
 
-- Al terminar la salsa, triturarla. Esto puede ser útil si no se desean los pedazos de cebolla / ajo / etc. en la salsa, para por ejemplo una pizza.
+- Después de terminar de hacer la salsa, se puede triturar. Esto puede ser útil
+  si no se desean los pedazos de cebolla / ajo / etc. en la salsa, para por
+  ejemplo una pizza.
