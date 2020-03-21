@@ -12,6 +12,7 @@ Indice
 - [Masa para pizza](recetas/masa-pizza.md)
 - [Galletitas de chocolate](recetas/cookies.md)
 - [Budín de banana](recetas/banana-bread.md)
+- [Budín de limón](recetas/lemon-bread.md)
 - [Pollo tres aromas](recetas/sanbeiji.md)
 - [Goulash](recetas/goulash.md)
 - [Pebre](recetas/pebre.md)
