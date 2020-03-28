@@ -13,6 +13,7 @@ Indice
 - [Galletitas de chocolate](recetas/cookies.md)
 - [Budín de banana](recetas/banana-bread.md)
 - [Pollo tres aromas](recetas/sanbeiji.md)
+- [Pollo Kung Pao (Gong Bao Ji Ding)](recetas/kung-pao.md)
 - [Goulash](recetas/goulash.md)
 - [Pebre](recetas/pebre.md)
 
