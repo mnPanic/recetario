@@ -15,6 +15,7 @@ Indice
 - [Pollo tres aromas](recetas/sanbeiji.md)
 - [Goulash](recetas/goulash.md)
 - [Pebre](recetas/pebre.md)
+- [Risotto](recetas/risotto.md)
 
 Nomenclaturas
 -------------
