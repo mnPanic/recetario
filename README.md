@@ -11,7 +11,7 @@ Indice
 - [Salsa de tomate](recetas/salsa-tomate.md)
 - [Masa para pizza](recetas/masa-pizza.md)
 - [Galletitas de chocolate](recetas/cookies.md)
-- [Budín de banana](recetas/banana-bread.md)
+- [Budín de banana](recetas/budin-banana/receta.md)
 - [Pollo tres aromas](recetas/sanbeiji.md)
 - [Goulash](recetas/goulash.md)
 - [Pebre](recetas/pebre.md)

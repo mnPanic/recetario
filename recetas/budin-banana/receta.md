@@ -1,6 +1,12 @@
 Budín de banana
 ===============
 
+<p float="left">
+  <img src="mezcla.jpg" width="200"/>
+  <img src="cocinado.jpg" width="200"/> 
+  <img src="desmolde.jpg" width="200"/>
+</p>
+
 Ingredientes
 ------------
 
