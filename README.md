@@ -16,6 +16,7 @@ Indice
 - [Goulash](recetas/goulash.md)
 - [Pebre](recetas/pebre.md)
 - [Risotto](recetas/risotto.md)
+- [Lupines en salmuera](recetas/lupines.md)
 
 Nomenclaturas
 -------------
