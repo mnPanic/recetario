@@ -17,6 +17,7 @@ Indice
 - [Pebre](recetas/pebre.md)
 - [Risotto](recetas/risotto.md)
 - [Lupines en salmuera](recetas/lupines.md)
+- [Thai curry (mae ploy)](recetas/thai-curry.md)
 
 Nomenclaturas
 -------------
