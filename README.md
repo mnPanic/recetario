@@ -18,6 +18,8 @@ Indice
 - [Risotto](recetas/risotto.md)
 - [Lupines en salmuera](recetas/lupines.md)
 - [Thai curry (mae ploy)](recetas/thai-curry.md)
+- [Pesto](recetas/pesto.md)
+
 
 Nomenclaturas
 -------------
