@@ -18,7 +18,7 @@ Indice
 - [Risotto](recetas/risotto.md)
 - [Lupines en salmuera](recetas/lupines.md)
 - [Thai curry (mae ploy)](recetas/thai-curry.md)
-
+- [Gyoza](recetas/gyoza.md)
 Nomenclaturas
 -------------
 
