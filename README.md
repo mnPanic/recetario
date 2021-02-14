@@ -19,7 +19,7 @@ Indice
 - [Lupines en salmuera](recetas/lupines.md)
 - [Thai curry (mae ploy)](recetas/thai-curry.md)
 - [Pesto](recetas/pesto.md)
-
+- [Miso Soup](recetas/miso-soup.md)
 
 Nomenclaturas
 -------------
@@ -28,10 +28,10 @@ Nomenclaturas
 - tbsp: Tablespoon, cucharón
 - cup: Taza
 
-Termino en ingles   | Equivalente en español
-------------------- | ----------------------
-Baking soda         | Bicarbonato de sodio
-Baking powder       | Polvo de hornear
-Bread flour         | Harina 000
-All-purpose flour   | Harina 0000
-Self-rising flour   | Harina leudante
+| Termino en ingles | Equivalente en español |
+| ----------------- | ---------------------- |
+| Baking soda       | Bicarbonato de sodio   |
+| Baking powder     | Polvo de hornear       |
+| Bread flour       | Harina 000             |
+| All-purpose flour | Harina 0000            |
+| Self-rising flour | Harina leudante        |
