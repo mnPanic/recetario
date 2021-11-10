@@ -7,6 +7,7 @@ Indice
 ------
 
 - [Pollo al curry (Murgh Kari)](recetas/chicken-curry.md)
+- [Keema Matar](recetas/keema.md)
 - [Arroz blanco](recetas/arroz-blanco.md)
 - [Salsa de tomate](recetas/salsa-tomate.md)
 - [Masa para pizza](recetas/masa-pizza.md)
