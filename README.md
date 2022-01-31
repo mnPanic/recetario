@@ -20,6 +20,7 @@ Indice
 - [Thai curry (mae ploy)](recetas/thai-curry.md)
 - [Pesto](recetas/pesto.md)
 - [Alcaucil](recetas/alcaucil.md)
+- [Hummus](recetas/hummus.md)
 
 Nomenclaturas
 -------------
